@@ -10,8 +10,9 @@ Requires:
 - 6x M3 screws
 
 ## Wiring:
-![Wiring](https://github.com/Rumidom/BettaFishFeeder/tree/main/images/wiring.png?raw=true)
-
+<p align="center">
+  <img src="images/wiring.png" width="350" title="Wiring">
+</p>
 ## 1. Install MicroPython on the RP2040 Zero
 Visit the official MicroPython download page for RP2040 boards: [MicroPython for PiPico](https://micropython.org/download/RPI_PICO/).
 Download the latest .uf2 firmware file.
