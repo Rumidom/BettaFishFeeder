@@ -31,4 +31,5 @@ Click OK to save the settings.
 Upload both main.py and at24c32n.py to RP2040 Zero
 Right-Click over the selected Files.
 Click on "Upload to /".
+
 [Youtube Tutorial](https://www.youtube.com/watch?v=FtlYC5Xqgns)
