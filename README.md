@@ -1,4 +1,4 @@
-# BettaFishFeeder
+# Betta Fish Feeder
 Simple script for a diy 3D printed Betta fish feeder
 
 <p align="center">
