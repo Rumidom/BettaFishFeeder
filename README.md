@@ -1,5 +1,5 @@
 # BettaFishFeeder
-simple script for a diy 3D printed Betta fish feeder
+Simple script for a diy 3D printed Betta fish feeder
 
 [3d Printed Files](https://cults3d.com/en/3d-model/gadget/betta-fish-feeder-f008684d7eb13b9ea993)
 
