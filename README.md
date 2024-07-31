@@ -1,6 +1,10 @@
 # BettaFishFeeder
 Simple script for a diy 3D printed Betta fish feeder
 
+<p align="center">
+  <img src="images/IMG_20240730_211224.jpg" width="350" title="Wiring">
+</p>
+
 [3d Printed Files](https://cults3d.com/en/3d-model/gadget/betta-fish-feeder-f008684d7eb13b9ea993)
 
 Requires:
