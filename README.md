@@ -37,7 +37,7 @@ Select the correct port for your RP2040 Zero from the Port dropdown menu.
 Click OK to save the settings.
 
 ## 3. Upload a Script to the RP2040 Zero
-Upload both main.py and at24c32n.py to RP2040 Zero
+Upload both main.py and Stepper.py to RP2040 Zero
 Right-Click over the selected Files.
 Click on "Upload to /".
 
